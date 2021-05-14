@@ -1,0 +1,20 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: navy;
+}
+
+li a {
+    display: block;
+    padding: 15px 5px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+body {
+    background-color: aliceblue;
+    color: navy;
+}
